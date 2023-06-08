@@ -1,7 +1,4 @@
-/**
-    Name: Muhammad Haikel Thaqif Bin Jomari
-   	Student Number: 200553917
- */
+
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
